@@ -71,3 +71,25 @@ python 09_artifact_cooccurrence.py
 ## License
 
 MIT — see `LICENSE` file.
+## Citation
+
+If you use this code, please cite:
+```bibtex
+@article{karakoyun2026shortcut,
+  title={Shortcut Signals and Dataset Bias in Dermatology AI: A Multi-Dataset Artifact Audit, Counterfactual Evaluation, and Cross-Architecture Generalization Study},
+  author={Karakoyun, {\"O}mer},
+  journal={npj Digital Medicine},
+  year={2026},
+  publisher={Nature Publishing Group},
+  url={https://github.com/omar-k2025/dermatology-shortcut-audit}
+}
+```
+
+## Contact
+
+**Dr. Ömer Karakoyun**  
+Department of Dermatology and Venereology  
+Gazi Yaşargil Training and Research Hospital  
+Diyarbakır, Türkiye  
+📧 omerkarakoyun@gmail.com  
+🔗 ORCID: [0009-0008-8196-7470](https://orcid.org/0009-0008-8196-7470)
